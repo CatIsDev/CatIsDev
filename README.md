@@ -9,7 +9,6 @@
     </div>
     <div id="Aboutme">
         <h2 align="left"><b>About me</b></h2>
-        <img src="https://media.tenor.com/ImzK5FFT4VYAAAAC/rem-anime.gif" width="230" align="right">
         <ul>
             <b>
                 <li>🌱 Call me Cat/Mai</li>
