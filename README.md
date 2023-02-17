@@ -3,7 +3,7 @@
         <img src="https://i.imgur.com/1udsk1Z.png" width="140" alt="avatar"/>
         <p>I'm not a coder, I'm just an average discord user</p>
         <a href="https://dsc.bio/Dokim">
-            <img src="https://img.shields.io/badge/MaiDev-black?style=for-the-badge&logo=discord&logoColor=white" alt="My discord"/>
+            <img src="https://img.shields.io/badge/Doki-black?style=for-the-badge&logo=discord&logoColor=white" alt="My discord"/>
         </a>
         <h1>Welcome to the worst place <img src="https://i.imgur.com/tEHB7ic.png" width="30px"></h1>
     </div>
