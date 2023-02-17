@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Test</title>
+	<title>Another test</title>
 </head>
 <body>
-    
+	<h1>T</h1>
 </body>
 </html>
