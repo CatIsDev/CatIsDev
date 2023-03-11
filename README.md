@@ -29,10 +29,10 @@
     <div id="Stats">
         <h2 align="left"><b>Stats</b></h2>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Mangoki&show_icons=true&theme=material-palenight">
+            <img src="https://github-readme-stats.vercel.app/api?username=Nyak0&show_icons=true&theme=material-palenight">
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangoki&layout=compact&theme=material-palenight">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyak0&layout=compact&theme=material-palenight">
         </a>
     </div>
 </body>
